@@ -9,7 +9,7 @@
 
 
  [Sobre o Projeto](#-sobre-o-projeto) | [Tecnologias](#-tecnologias) | [Layout](#-layout) | [Como executar a aplicação](#-como-executar-a-aplicação) |
- [Como contribuir](-como-contribuir) | [Licença](#-licença) | [Autor](#-autor)
+ [Como contribuir](#-como-contribuir) | [Licença](#-licença) | [Autor](#-autor)
  
  ![Capa](https://github.com/andersondev96/nlw_heat/assets/49786548/6fde5bb5-9e5b-4f15-ad7c-85c0441796d6)
 
